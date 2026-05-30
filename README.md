@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=130&section=header&text=Ashwani%20Dhayal&fontSize=64&fontColor=00D4AA&fontAlignY=50&desc=Software%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20IEEE%20Researcher&descAlignY=80&descSize=14&descColor=8B95A1" alt="Ashwani Dhayal" />
 
 <a href="https://github.com/ashwani-dhayal">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=900&color=00D4AA&center=true&vCenter=true&width=900&height=50&lines=%24+whoami;Final-year+CSE+%40+SRM+(CGPA+9.21);Software+Integration+%26+Testing+%40+Nokia;Building+ML+systems+%26+5G+validation+frameworks;2x+IEEE+Published+Researcher" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=900&color=00D4AA&center=true&vCenter=true&width=900&height=50&lines=%24+whoami;B.Tech+CSE+%40+SRM+%E2%80%94+Graduated+May+2026;SWIT+Software+Integration+%26+Testing+Intern+%40+Nokia;Building+production+software+%E2%80%A2+AI-driven+systems;2x+IEEE+Published+Researcher" alt="Typing intro" />
 </a>
 
 <br/>
@@ -42,11 +42,11 @@
 
 ### About
 
-I'm a final-year **Computer Science** student at **SRM Institute of Science and Technology** (CGPA **9.21**) currently working as a **Software Integration & Testing Engineer at Nokia**, where I validate **5G IPSec, EAS, and BFD features** across ASIB and ASIM platforms.
+I graduated with a **B.Tech in Computer Science** from **SRM Institute of Science and Technology** in **May 2026** (CGPA **9.21**) and currently work as a **SWIT — Software Integration and Testing Intern at Nokia**, validating **5G IPSec, EAS, and BFD features** across ASIB and ASIM platforms.
 
-I build production-grade ML systems, telecom-validation tooling, and full-stack products — and I genuinely care about **clean architecture, reliability, and the engineering craft**.
+I'm a software engineer first — I build production-grade systems, AI-driven applications, and full-stack products. I care deeply about **clean architecture, reliability, and engineering craft**.
 
-When I'm not coding, you'll find me reading ML papers, writing IEEE conference papers, or organising hackathons for the **1500-member CSI student chapter** at SRM.
+Outside of work, I've **published two IEEE research papers** on AI-driven optimisation and Digital Twins, and I served as **Secretary of the 1500-member CSI student chapter** at SRM, where I co-founded the team and organised hackathons, sponsorships, and tech events.
 
 </td>
 <td width="50%" valign="top">
@@ -55,11 +55,11 @@ When I'm not coding, you'll find me reading ML papers, writing IEEE conference p
 
 ```yaml
 location:    India 🇮🇳
-role:        SWIT Engineer @ Nokia
-education:   B.Tech CSE @ SRM (CGPA 9.21)
-focus:       AI systems · 5G · production ML
-publications: 2 IEEE papers
-fun_fact:    coffee + clean diffs > everything
+role:        SWIT — Software Integration & Testing Intern @ Nokia
+education:   B.Tech CSE · SRM (graduated May 2026, CGPA 9.21)
+focus:       Software engineering · AI systems · 5G validation
+publications: 2 IEEE papers (AI optimisation, Digital Twins)
+leadership:  Secretary, CSI SRM-KTR (1500+ members)
 ```
 
 ```bash
@@ -67,7 +67,7 @@ $ contact ashwani
 > email:    ashwanidhayal123@gmail.com
 > linkedin: /in/ashwani-dhayal-87922b267
 > github:   ashwani-dhayal
-> open_to:  ML/SDE/AI Engineering roles
+> open_to:  Software Engineering / SDE / AI Engineering roles
 ```
 
 </td>
@@ -81,7 +81,7 @@ $ contact ashwani
 ## Experience
 
 ```
-2025 ─── ●  Software Integration & Testing Intern  @ Nokia
+2025 ─── ●  SWIT — Software Integration and Testing Intern  @ Nokia
               5G IPSec · EAS · BFD validation across ASIB/ASIM
               AI-pattern log analysis · Linux · Jenkins · Gerrit
 2025 ─── ●  iOS Developer Intern  @ Infosys
@@ -209,7 +209,13 @@ Real-time attendance system using **OpenCV** for live webcam-based face detectio
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,cpp,swift,ts,js,react,fastapi,django,nodejs,tensorflow,pytorch,opencv,docker,linux,jenkins,git,github,mysql,firebase,figma&perline=10" />
+<img src="https://skillicons.dev/icons?i=py,cpp,swift,ts,js,react,fastapi,tensorflow,pytorch,opencv,docker,linux,jenkins,git,github,mysql,firebase,figma,xd,cursor&perline=10" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
 
 </div>
 
@@ -225,11 +231,12 @@ Real-time attendance system using **OpenCV** for live webcam-based face detectio
 | **Languages** | Python · C++ · Swift · TypeScript · JavaScript · SQL |
 | **AI / ML** | PyTorch · TensorFlow · scikit-learn · LightGBM · SHAP · OpenCV · Core ML |
 | **LLM / NLP** | RAG · vector search · prompt engineering · Groq · OpenAI · Gemini |
-| **Backend** | FastAPI · Django · Node.js · Streamlit |
+| **Backend** | FastAPI · Streamlit |
 | **Frontend** | React · SwiftUI · HTML · CSS |
 | **Data & Infra** | SQLite · MySQL · Firebase · Docker · GitHub Actions · Jenkins · Gerrit |
 | **Domain** | 5G · IPSec · IKE/SA · BFD · SWIT · Linux automation |
 | **Design** | Figma · Adobe XD · UI/UX prototyping |
+| **AI Pair-Programming** | Cursor AI · GitHub Copilot |
 
 </details>
 
@@ -257,12 +264,8 @@ Real-time attendance system using **OpenCV** for live webcam-based face detectio
 
 ## Let's connect
 
-I'm currently exploring **full-time SDE / ML / AI Engineering opportunities** for 2026 graduation. If you're hiring, building something interesting, or just want to chat about ML systems or 5G — reach out.
+Graduated **May 2026** and actively exploring **full-time Software Engineering / SDE / AI Engineering opportunities**. If you're hiring, building something interesting, or want to discuss software systems, AI, or 5G validation — let's talk.
 
 <a href="mailto:ashwanidhayal123@gmail.com"><img src="https://img.shields.io/badge/Drop%20me%20an%20email-00D4AA?style=for-the-badge&logo=gmail&logoColor=0F172A&labelColor=00D4AA" /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/ashwani-dhayal-87922b267/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<br/><br/>
-
-<sub>⭐ If you like what you see, leave a star on one of my repos — it genuinely helps.</sub>
