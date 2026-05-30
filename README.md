@@ -1,138 +1,129 @@
+<!-- HERO -->
+<a href="https://github.com/ashwani-dhayal">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:090E1A,40:1E40AF,80:6366F1,100:8B5CF6&height=260&section=header&text=Ashwani%20Dhayal&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=Engineering%20Intelligence%20into%20Production%20Systems&descAlignY=60&descSize=18&animation=fadeIn&fontAlign=50">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090E1A,40:1E40AF,80:6366F1,100:8B5CF6&height=260&section=header&text=Ashwani%20Dhayal&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=Engineering%20Intelligence%20into%20Production%20Systems&descAlignY=60&descSize=18&animation=fadeIn&fontAlign=50" alt="Ashwani Dhayal" />
+  </picture>
+</a>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=180&section=header&text=Ashwani%20Dhayal&fontSize=58&fontColor=FAFAFA&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20AI%20Systems%20%C2%B7%205G%20Validation&descAlignY=66&descSize=15&animation=fadeIn" alt="header" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=720&lines=%24+whoami;Software+Engineer+building+AI-driven+systems;5G+SWIT+Intern+%40+Nokia+%E2%80%A2+IEEE+Researcher;Currently+training+ML+models+on+real+production+data;Always+iterating%2C+always+shipping)](https://github.com/ashwani-dhayal)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0F172A?style=flat-square&logoColor=white&logo=googlechrome)](https://github.com/ashwani-dhayal)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwani-dhayal/)
-[![Email](https://img.shields.io/badge/-ad3465%40srmist.edu.in-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ad3465@srmist.edu.in)
-[![Profile views](https://komarev.com/ghpvc/?username=ashwani-dhayal&style=flat-square&color=64748B&label=Profile+views)](https://github.com/ashwani-dhayal)
+<a href="https://www.linkedin.com/in/ashwani-dhayal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" /></a>
+<a href="mailto:ad3465@srmist.edu.in"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" /></a>
+<a href="https://github.com/ashwani-dhayal?tab=repositories"><img src="https://img.shields.io/badge/Repos-Browse-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" /></a>
+<img src="https://komarev.com/ghpvc/?username=ashwani-dhayal&style=for-the-badge&color=6366F1&label=Profile+visits" />
 
 </div>
 
 <br/>
 
-## About
-
-I'm a final-year Computer Science student at **SRM Institute of Science and Technology** (CGPA 9.21), currently working as a **Software Integration & Testing Intern at Nokia**, where I validate **5G IPSec and EAS features** across ASIB/ASIM platforms. My focus is on building intelligent, scalable systems — from production-grade ML pipelines to LLM-powered applications and 5G validation frameworks.
-
-Beyond engineering, I'm a **2× IEEE published researcher** in AI optimisation and Digital Twins, and I led the **1500-member CSI student chapter** at SRM as Secretary.
-
-```
-Currently working on   →  AI-driven 5G regression analysis @ Nokia
-Currently learning     →  LLM systems, MLOps, distributed ML
-Open to opportunities  →  Software / ML / AI engineering roles
-Reach out              →  ad3465@srmist.edu.in
-```
-
-<br/>
-
-## Experience
-
-| Role | Organisation | Period |
-|------|-------------|--------|
-| **Software Integration & Testing Intern** — 5G IPSec, EAS, BFD validation across ASIB/ASIM | Nokia | Aug 2025 – Present |
-| **iOS Developer Intern** — Built Cinefy (Swift + Core ML + Firebase) | Infosys | Apr 2025 – May 2025 |
-| **Apple iOS Development Program** — Selected from 800 students (Apple × Infosys) | SRMIST | Aug 2024 – Mar 2025 |
-| **UI/UX Intern** — Figma, Adobe XD, interactive prototyping | Infotact Solutions | Dec 2024 – Feb 2025 |
-| **Software Development Engineer Intern** — IPO web app (Django + JS) | Bluestock Fintech | Jun 2024 – Aug 2024 |
-| **Secretary, CSI** — Led 1500-member student chapter | SRM-KTR | May 2024 – May 2025 |
-
-<br/>
-
-## Featured Work
+<!-- METRICS GRID -->
+<div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-#### [Credit Risk Intelligence Platform](https://github.com/ashwani-dhayal/credit-risk-platform)
-
-End-to-end ML platform for default-risk prediction.
-
-- LightGBM classifier — **ROC-AUC 0.895**, KS 0.657
-- Per-applicant SHAP explainability
-- Decision-tree IF-THEN rule extractor
-- LLM-powered NL-to-SQL chatbot (Groq / OpenAI / Gemini)
-- Streamlit UI, SQLite, Docker Compose
-
-`Python` `LightGBM` `SHAP` `Streamlit` `Docker`
-
+<td align="center" width="25%">
+<img src="https://img.icons8.com/3d-fluency/100/graduation-cap.png" width="56" /><br/>
+<sub><b>CGPA</b></sub><br/>
+<b>9.21 / 10</b>
 </td>
-<td width="50%" valign="top">
-
-#### 5G IPSec & Feature Validation @ Nokia
-
-Production validation framework for 5G transport software.
-
-- IXIA traffic generation, SecGW–DUT tunnel testing
-- IKE/SA lifecycle, re-key, and failover scenarios
-- Regression: RP000356, CB007228, CB007016, 5GC000267
-- BFD (RP000361) — session establishment, fault detection
-- AI-pattern log analysis on Linux/Jenkins/Gerrit
-
-`5G` `IPSec` `Linux` `Jenkins` `Python`
-
+<td align="center" width="25%">
+<img src="https://img.icons8.com/3d-fluency/100/medal2.png" width="56" /><br/>
+<sub><b>IEEE Papers</b></sub><br/>
+<b>2 Published</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/3d-fluency/100/satellite-sending-signal.png" width="56" /><br/>
+<sub><b>Production Domain</b></sub><br/>
+<b>5G &amp; IPSec</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/3d-fluency/100/group.png" width="56" /><br/>
+<sub><b>Led at CSI</b></sub><br/>
+<b>1500+ members</b>
 </td>
 </tr>
+</table>
+
+</div>
+
+<br/>
+
+## <picture><source media="(prefers-color-scheme: dark)" srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="32"></picture> &nbsp; About me
+
+```ts
+const ashwani = {
+  role:        "Software Integration & Testing Intern @ Nokia",
+  pursuing:    "B.Tech CSE @ SRM Institute (2022 — 2026)",
+  building: [
+    "5G IPSec / EAS / BFD validation frameworks",
+    "AI-powered credit-risk platform with NL-to-SQL",
+    "Chatbot SaaS with FastAPI + RAG + vector search",
+  ],
+  passions: [
+    "intelligent systems",
+    "production ML",
+    "clean architecture",
+    "shipping things that actually work"
+  ],
+  philosophy:  "If you can't measure it, you can't improve it.",
+  reach_me_at: "ad3465@srmist.edu.in"
+};
+```
+
+<br/>
+
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> &nbsp; What I'm shipping right now
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### Chatbot SaaS Platform
+<div align="center">
 
-Multi-tenant Chatbot-as-a-Service supporting both intent-based and RAG-based interactions.
+### <kbd>Nokia · 5G</kbd>
 
-- FastAPI backend with semantic caching & vector embeddings
-- React management dashboard for bot configuration
-- ClamAV malware scanning via Docker
-- GitHub Actions CI/CD with Bandit security audits
+</div>
 
-`FastAPI` `React` `RAG` `Docker` `CI/CD`
+Validating IPSec tunnels, IKE/SA lifecycle, BFD failover, and EAS features across **ASIB / ASIM** platforms.
 
-</td>
-<td width="50%" valign="top">
+Pattern-based log analysis with Cursor + Copilot accelerates regression triage on Linux + Jenkins + Gerrit pipelines.
 
-#### [Cinefy — iOS Movie Companion](https://github.com/ashwani-dhayal/Cinefy-Now)
-
-AI-powered movie recommendation app, built at Infosys.
-
-- Swift + SwiftUI native iOS application
-- Firebase auth + real-time data sync
-- Core ML on-device recommendation engine
-- Community features: comments, polls, watchlists
-
-`Swift` `Core ML` `Firebase` `Figma`
+`5G` `IPSec` `Linux`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### DS Mart — Full-Stack E-Commerce
+<div align="center">
 
-Production-grade e-commerce platform with end-to-end transaction flow.
+### <kbd>AI · Credit Risk</kbd>
 
-- React + JavaScript responsive frontend
-- PHP + MySQL backend with secure auth
-- Encrypted payments and session handling
-- Cart, checkout, and order management
+</div>
 
-`React` `PHP` `MySQL` `JavaScript`
+End-to-end ML platform: **LightGBM** classifier (ROC-AUC 0.895) + **SHAP** explainability + decision-tree rule extraction.
+
+Talk-to-Data chatbot translates English into safe SQL via Groq / OpenAI / Gemini.
+
+[`View repo →`](https://github.com/ashwani-dhayal/credit-risk-platform)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### Face Recognition Attendance System
+<div align="center">
 
-Real-time attendance system using computer vision.
+### <kbd>iOS · Cinefy</kbd>
 
-- OpenCV for face detection + recognition
-- Webcam-based live identification
-- Auto-logged attendance with timestamps
-- CSV-based reporting for institutional use
+</div>
 
-`Python` `OpenCV` `NumPy`
+AI-powered movie companion built at **Infosys** with Swift + SwiftUI, Firebase, and Core ML.
+
+Personalised recommendations using on-device ML and a community feed for trending discussions.
+
+[`View repo →`](https://github.com/ashwani-dhayal/Cinefy-Now)
 
 </td>
 </tr>
@@ -140,94 +131,168 @@ Real-time attendance system using computer vision.
 
 <br/>
 
-## Research & Publications
-
-> **Community Food Sharing System: A Priority-Based Algorithmic Approach for Real-Time Food Allocation**
-> *IEEE 2nd United International Conference on Technologies, Research, Product Developments and Space Science*
-> Proposed the **PB-FMA framework** combining urgency, fairness, and proximity scoring with a Firebase-backed real-time architecture. Achieved a **~37% improvement** over FCFS allocation across 1000+ simulated redistribution requests.
-
-> **Dynamic Urban Mobility: Enhancing Road Safety and Traffic Flow Through an AI-Driven Digital Twin Framework**
-> *5th International Conference on Internet of Things (ICIoT 2025)*
-> An AI-driven Digital Twin integrating ML, IoT, and adaptive traffic intelligence. Demonstrated **27% congestion reduction** and **33% improvement** in pedestrian compliance.
-
-<br/>
-
-## Tech Stack
-
-**Languages**
-![Python](https://img.shields.io/badge/-Python-0F172A?style=flat-square&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/-C++-0F172A?style=flat-square&logo=c%2B%2B&logoColor=00599C)
-![Swift](https://img.shields.io/badge/-Swift-0F172A?style=flat-square&logo=swift&logoColor=F05138)
-![SQL](https://img.shields.io/badge/-SQL-0F172A?style=flat-square&logo=postgresql&logoColor=4169E1)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6)
-
-**AI / ML**
-![PyTorch](https://img.shields.io/badge/-PyTorch-0F172A?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-0F172A?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-0F172A?style=flat-square&logo=scikit-learn&logoColor=F7931E)
-![OpenCV](https://img.shields.io/badge/-OpenCV-0F172A?style=flat-square&logo=opencv&logoColor=5C3EE8)
-![CoreML](https://img.shields.io/badge/-Core%20ML-0F172A?style=flat-square&logo=apple&logoColor=FAFAFA)
-![LightGBM](https://img.shields.io/badge/-LightGBM-0F172A?style=flat-square)
-![SHAP](https://img.shields.io/badge/-SHAP-0F172A?style=flat-square)
-![RAG](https://img.shields.io/badge/-RAG-0F172A?style=flat-square&logo=langchain&logoColor=8A2BE2)
-
-**Frameworks & Backend**
-![FastAPI](https://img.shields.io/badge/-FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=009688)
-![React](https://img.shields.io/badge/-React-0F172A?style=flat-square&logo=react&logoColor=61DAFB)
-![Streamlit](https://img.shields.io/badge/-Streamlit-0F172A?style=flat-square&logo=streamlit&logoColor=FF4B4B)
-![Django](https://img.shields.io/badge/-Django-0F172A?style=flat-square&logo=django&logoColor=092E20)
-![Firebase](https://img.shields.io/badge/-Firebase-0F172A?style=flat-square&logo=firebase&logoColor=FFCA28)
-![Node.js](https://img.shields.io/badge/-Node.js-0F172A?style=flat-square&logo=node.js&logoColor=339933)
-
-**DevOps & Tooling**
-![Linux](https://img.shields.io/badge/-Linux-0F172A?style=flat-square&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/-Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED)
-![Jenkins](https://img.shields.io/badge/-Jenkins-0F172A?style=flat-square&logo=jenkins&logoColor=D24939)
-![Git](https://img.shields.io/badge/-Git-0F172A?style=flat-square&logo=git&logoColor=F05032)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-0F172A?style=flat-square&logo=githubactions&logoColor=2088FF)
-![Gerrit](https://img.shields.io/badge/-Gerrit-0F172A?style=flat-square)
-![JIRA](https://img.shields.io/badge/-JIRA-0F172A?style=flat-square&logo=jira&logoColor=0052CC)
-
-**Domain**
-![5G](https://img.shields.io/badge/-5G-0F172A?style=flat-square)
-![IPSec](https://img.shields.io/badge/-IPSec-0F172A?style=flat-square)
-![SWIT](https://img.shields.io/badge/-SWIT-0F172A?style=flat-square)
-![Figma](https://img.shields.io/badge/-Figma-0F172A?style=flat-square&logo=figma&logoColor=F24E1E)
-
-<br/>
-
-## GitHub Statistics
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> &nbsp; Tech I work with
 
 <div align="center">
 
-<a href="https://github.com/ashwani-dhayal">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=ashwani-dhayal&show_icons=true&hide_border=true&bg_color=0F172A&title_color=FAFAFA&icon_color=64748B&text_color=CBD5E1&count_private=true&include_all_commits=true" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwani-dhayal&layout=compact&hide_border=true&bg_color=0F172A&title_color=FAFAFA&text_color=CBD5E1&langs_count=8" />
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwani-dhayal&hide_border=true&background=0F172A&stroke=1E293B&ring=64748B&fire=FAFAFA&currStreakLabel=FAFAFA&sideLabels=CBD5E1&dates=64748B&currStreakNum=FAFAFA&sideNums=FAFAFA" />
+<!-- skill-icons.dev provides clean, consistent icons -->
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,cpp,swift,ts,js,react,fastapi,django,nodejs,docker,linux,jenkins,git,figma,firebase,mysql,opencv,tensorflow,pytorch&perline=10" /></a>
 
 </div>
 
 <br/>
 
-## Education
+<details>
+<summary><b>Click to expand: full toolbox</b></summary>
 
-**B.Tech, Computer Science and Technology** &nbsp;·&nbsp; *SRM Institute of Science and Technology, Chennai* &nbsp;·&nbsp; 2022 – 2026
-CGPA: **9.21** / 10
+| Layer | Tools |
+|------|------|
+| **Languages** | Python · C++ · Swift · TypeScript · JavaScript · SQL |
+| **AI / ML** | PyTorch · TensorFlow · scikit-learn · LightGBM · SHAP · OpenCV · Core ML · RAG / vector search |
+| **Backend** | FastAPI · Django · Node.js · Streamlit |
+| **Frontend** | React · SwiftUI · HTML / CSS |
+| **Data & Infra** | SQLite · MySQL · Firebase · Docker · GitHub Actions · Jenkins · Gerrit |
+| **Domain** | 5G · IPSec · IKE / SA · BFD · SWIT · Linux automation · Figma / Adobe XD |
 
-**Class X & XII (CBSE)** &nbsp;·&nbsp; *Birla School Pilani*
-10th: **95%** &nbsp;·&nbsp; 12th (PCM): **94%**
+</details>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp; Featured projects
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### [`credit-risk-platform`](https://github.com/ashwani-dhayal/credit-risk-platform)
+*AI-powered credit-risk intelligence with explainability and chat-to-data.*
+
+<a href="https://github.com/ashwani-dhayal/credit-risk-platform">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashwani-dhayal&repo=credit-risk-platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=CBD5E1" />
+</a>
+
+</td>
+<td valign="top" width="50%">
+
+#### [`Cinefy-Now`](https://github.com/ashwani-dhayal/Cinefy-Now)
+*iOS movie companion with on-device ML recommendations.*
+
+<a href="https://github.com/ashwani-dhayal/Cinefy-Now">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ashwani-dhayal&repo=Cinefy-Now&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=CBD5E1" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+#### Chatbot SaaS Platform <sub>(private)</sub>
+Multi-tenant Chatbot-as-a-Service with FastAPI, semantic caching, vector embeddings and intent classification. React dashboard for bot configuration; ClamAV malware scanning; GitHub Actions CI/CD with Bandit static security audits.
+
+`FastAPI` `RAG` `React` `Docker` `CI/CD`
+
+</td>
+<td valign="top" width="50%">
+
+#### 5G IPSec & Feature Validation <sub>(Nokia, internal)</sub>
+Validates IPSec topology with IXIA traffic, SecGW–DUT tunnels, and the full SA lifecycle. Regression for RP000356 / CB007228 / CB007016 / 5GC000267. Stabilises EAS across ASIB & ASIM. Validated BFD (RP000361) for fault detection and link recovery.
+
+`5G` `IPSec` `BFD` `Jenkins` `Linux`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/3o6ZsYm5P0vDbzqo6c/giphy.gif" width="28"> &nbsp; Research & writing
+
+<table>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/IEEE-Published-00629B?style=flat-square&logo=ieee&logoColor=white" />
+</td>
+<td>
+
+**Community Food Sharing System: A Priority-Based Algorithmic Approach for Real-Time Food Allocation**
+*IEEE 2nd UICTRPDSS* &nbsp;·&nbsp; PB-FMA framework with multi-criteria scoring &nbsp;·&nbsp; **~37% gain** over FCFS across 1000+ simulated requests.
+
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://img.shields.io/badge/IEEE-Published-00629B?style=flat-square&logo=ieee&logoColor=white" />
+</td>
+<td>
+
+**Dynamic Urban Mobility: Enhancing Road Safety and Traffic Flow via an AI-Driven Digital Twin Framework**
+*ICIoT 2025* &nbsp;·&nbsp; ML + IoT + adaptive traffic intelligence &nbsp;·&nbsp; **27% congestion ↓** &nbsp;·&nbsp; **33% pedestrian compliance ↑**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/dXFINFTGNZyo/giphy.gif" width="28"> &nbsp; GitHub in motion
+
+<div align="center">
+
+<a href="https://github.com/ashwani-dhayal">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashwani-dhayal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=CBD5E1&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwani-dhayal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=CBD5E1&langs_count=8" />
+</a>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwani-dhayal&theme=tokyonight&hide_border=true&background=0D1117&stroke=1E293B&ring=8B5CF6&fire=F472B6&currStreakLabel=8B5CF6&sideLabels=CBD5E1&dates=64748B" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ashwani-dhayal&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+
+<br/><br/>
+
+<a href="https://github.com/ashwani-dhayal">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwani-dhayal&bg_color=0D1117&color=8B5CF6&line=6366F1&point=F472B6&area=true&hide_border=true&custom_title=Contributions%20over%20time" />
+</a>
+
+</div>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/jRf5fsn8G8itO/giphy.gif" width="28"> &nbsp; Beyond the keyboard
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### Leadership
+- **Secretary, CSI SRM-KTR** — co-founded and led a 1500-member technical society, organising hackathons, sponsorships, and tech events.
+- **Apple iOS Development Program** — selected from 800 students for the Apple × Infosys cohort.
+
+</td>
+<td valign="top" width="50%">
+
+#### Currently learning
+- Distributed ML systems & MLOps tooling
+- Production-grade LLM evaluation and observability
+- Advanced Linux internals for telecom-grade software
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 <div align="center">
 
-<sub>Open to collaborations on AI / ML systems, 5G validation tooling, or full-stack products.</sub>
+### <samp>Let's build something that matters.</samp>
 
-<sub>Designed and maintained by Ashwani Dhayal · Last updated May 2026</sub>
+<a href="mailto:ad3465@srmist.edu.in"><img src="https://img.shields.io/badge/Say%20hi%20%E2%80%94%20ad3465%40srmist.edu.in-6366F1?style=for-the-badge&labelColor=0D1117" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:1E40AF&height=120&section=footer&fontSize=0&reversal=false" />
 
 </div>
