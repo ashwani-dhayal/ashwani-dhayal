@@ -11,7 +11,7 @@
 <br/>
 
 <p>
-  <a href="https://www.linkedin.com/in/ashwani-dhayal/"><img src="https://img.shields.io/badge/LinkedIn-ashwani--dhayal-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ashwani-dhayal-87922b267/"><img src="https://img.shields.io/badge/LinkedIn-ashwani--dhayal-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   &nbsp;
   <a href="mailto:ashwanidhayal123@gmail.com"><img src="https://img.shields.io/badge/Email-ashwanidhayal123%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
   &nbsp;
@@ -65,7 +65,7 @@ fun_fact:    coffee + clean diffs > everything
 ```bash
 $ contact ashwani
 > email:    ashwanidhayal123@gmail.com
-> linkedin: /in/ashwani-dhayal
+> linkedin: /in/ashwani-dhayal-87922b267
 > github:   ashwani-dhayal
 > open_to:  ML/SDE/AI Engineering roles
 ```
@@ -261,7 +261,7 @@ I'm currently exploring **full-time SDE / ML / AI Engineering opportunities** fo
 
 <a href="mailto:ashwanidhayal123@gmail.com"><img src="https://img.shields.io/badge/Drop%20me%20an%20email-00D4AA?style=for-the-badge&logo=gmail&logoColor=0F172A&labelColor=00D4AA" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/ashwani-dhayal/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ashwani-dhayal-87922b267/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br/><br/>
 
