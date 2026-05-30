@@ -209,13 +209,12 @@ Real-time attendance system using **OpenCV** for live webcam-based face detectio
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,cpp,swift,ts,js,react,fastapi,tensorflow,pytorch,opencv,docker,linux,jenkins,git,github,mysql,firebase,figma,xd,cursor&perline=10" />
+<img src="https://skillicons.dev/icons?i=py,cpp,swift,ts,js,react,fastapi,tensorflow,pytorch,opencv,docker,linux,jenkins,git,github,mysql,firebase,figma,cursor&perline=10" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
 
 </div>
 
@@ -235,7 +234,7 @@ Real-time attendance system using **OpenCV** for live webcam-based face detectio
 | **Frontend** | React · SwiftUI · HTML · CSS |
 | **Data & Infra** | SQLite · MySQL · Firebase · Docker · GitHub Actions · Jenkins · Gerrit |
 | **Domain** | 5G · IPSec · IKE/SA · BFD · SWIT · Linux automation |
-| **Design** | Figma · Adobe XD · UI/UX prototyping |
+| **Design** | Figma · UI/UX prototyping |
 | **AI Pair-Programming** | Cursor AI · GitHub Copilot |
 
 </details>
