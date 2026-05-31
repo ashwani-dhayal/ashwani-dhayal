@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=130&section=header&text=Ashwani%20Dhayal&fontSize=64&fontColor=00D4AA&fontAlignY=50&desc=Software%20Engineer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20IEEE%20Researcher&descAlignY=80&descSize=14&descColor=8B95A1" alt="Ashwani Dhayal" />
 
 <a href="https://github.com/ashwani-dhayal">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=900&color=00D4AA&center=true&vCenter=true&width=900&height=50&lines=%24+whoami;B.Tech+CSE+%40+SRM+%E2%80%94+Graduated+May+2026;SWIT+Software+Integration+%26+Testing+Intern+%40+Nokia;Building+production+software+%E2%80%A2+AI-driven+systems;2x+IEEE+Published+Researcher" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=900&color=00D4AA&center=true&vCenter=true&width=900&height=50&lines=%24+whoami;B.Tech+CSE+%40+SRM+%E2%80%94+Graduated+May+2026;SWIT+Software+Integration+%26+Testing+%40+Nokia;Building+production+software+%E2%80%A2+AI-driven+systems;2x+IEEE+Published+Researcher" alt="Typing intro" />
 </a>
 
 <br/>
